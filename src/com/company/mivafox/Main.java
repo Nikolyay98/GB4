@@ -7,7 +7,6 @@ public class Main {
     static char[][] map;
     static final int SIZE =5;
     static final int DOTS_TO_WIN = 3;
-
     static final char DOT_EMPTY = '.';
     static final char DOT_X = 'X';
     static final char DOT_O = 'O';
